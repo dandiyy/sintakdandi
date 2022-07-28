@@ -1,2 +1,2 @@
-# sintakdandi
+# Dandicode
 Created with CodeSandbox
